@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707002057 source:c:\users\vanessastoynova\documents\github\rpnotation\rpnotation\main.cpp
+	<iostream>
+	<stack>
+	<unordered_set>
+	<string>
+
